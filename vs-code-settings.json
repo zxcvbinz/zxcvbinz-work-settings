@@ -57,5 +57,6 @@
 		".monaco-workbench .part>.title>.title-label > h2" : "color: white !important",
 		".monaco-pane-view .pane > .pane-header" : "background-color: rgba(20, 24, 32, 0.5) !important",
 	},
-	
+	"terminal.integrated.fontFamily": "MesloLGS NF",
+	"terminal.integrated.shell.osx": "/bin/zsh"
 }
