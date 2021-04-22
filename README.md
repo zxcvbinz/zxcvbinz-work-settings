@@ -1,4 +1,4 @@
-# zxcvbinz Custom terminal Theme
+# zxcvbinz-work-settings
 A custom themes for terminal and vim.
 ## Installation
 ### [Oh My zsh]
@@ -38,4 +38,14 @@ copy "profile_zxcvbinz.json" to iTerm2 profile
 
 1. `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`.
 2. add `plugins=(zsh-autosuggestions)` to `./.zshrc`. ## Not if you use `.zshrc` file from this repo.
+
+# Result
+
+### VSCode
+
+![VSCode](https://i.imgur.com/dWHiFPn.png)
+
+### iTerm2
+
+![iTerm2](https://i.imgur.com/cY09eJ4.png)
 
