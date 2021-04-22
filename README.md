@@ -30,3 +30,12 @@ chmod 755 install_custom.sh
 ./install_custom.sh 
 ```
 copy "profile_zxcvbinz.json" to iTerm2 profile
+### [powerlevel10k]
+1. `git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k`
+2. Set `ZSH_THEME="powerlevel10k/powerlevel10k"` in `~/.zshrc`. ## Not if you use `.zshrc` file from this repo.
+
+### [zsh-autosuggestions] - Plugins
+
+1. `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`.
+2. add `plugins=(zsh-autosuggestions)` to `./.zshrc`. ## Not if you use `.zshrc` file from this repo.
+
