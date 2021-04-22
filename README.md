@@ -34,6 +34,8 @@ copy "profile_zxcvbinz.json" to iTerm2 profile
 1. `git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k`
 2. Set `ZSH_THEME="powerlevel10k/powerlevel10k"` in `~/.zshrc`. ## Not if you use `.zshrc` file from this repo.
 
+# For VSCode install custom power10k font
+
 ### [zsh-autosuggestions] - Plugins
 
 1. `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`.
