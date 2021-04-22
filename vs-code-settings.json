@@ -1,0 +1,58 @@
+/* By zxcvbinz */
+{
+    "editor.insertSpaces": false,
+	"editor.detectIndentation": false,
+	"workbench.colorTheme": "Electron",
+	"workbench.iconTheme": "material-icon-theme",
+	"C_Cpp.updateChannel": "Insiders",
+	"vsicons.dontShowNewVersionMessage": true,
+	"terminal.integrated.rendererType": "dom",
+	"workbench.startupEditor": "newUntitledFile",
+	"vscode_vibrancy.opacity": -1,
+	"vscode_vibrancy.imports": [
+		"$theme-style$",
+	],
+	"vscode_vibrancy.type": "ultra-dark",
+	"vscode_vibrancy.theme": "Dark (Only Subbar)",
+	"workbench.productIconTheme": "icons-carbon",
+	"editor.minimap.enabled": false,
+	"workbench.colorCustomizations": {
+		"statusBar.background" : "#2B334D",
+		"statusBar.noFolderBackground" : "#0000",
+		"statusBar.debuggingBackground": "#0000",
+		"statusBar.foreground": "#fff",
+		"titleBar.activeBackground": "#2B334D",
+		"titleBar.border": "#2B334D",
+        "titleBar.activeForeground":"#2B334D",
+		"activityBar.background": "#2B334D",
+		"activityBar.foreground": "#fff",
+		"activityBar.border": "#323d61",
+		"statusBar.border": "#2B334D",
+		"sideBar.background": "#2B334D",
+		"sideBar.foreground": "#b1b1b1"
+	},
+	"background.enabled": true,
+  	"background.loop": false,
+  	"background.useDefault": false,
+  	"background.useFront": false,
+  	"background.style": {
+        "content": "''",
+        "pointer-events": "none",
+        "position": "absolute",
+        "z-index": "99999",
+        "width": "100%",
+        "height": "100%",
+        "margin-left":"0",
+        "background-position": "center",
+        "background-size": "cover",
+        "background-repeat": "no-repeat",
+        "opacity": 0.1
+    },
+  	"background.customImages": [
+        "https://assets.hongkiat.com/uploads/minimalist-dekstop-wallpapers/4k/original/14.jpg",
+	],
+	"customizeUI.activityBar": "wide",
+	"customizeUI.stylesheet": {
+		".monaco-pane-view .pane>.pane-header>.codicon:first-of-type": "visibility: hidden",
+	},
+}
